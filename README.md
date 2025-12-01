@@ -1,4 +1,4 @@
-# 🏃‍♂️ Running Data Visualizer
+# 🏃‍♂️ Running Data Visualizer - Août 2024
 
 Ce projet est un outil d'analyse de données de course à pied écrit en Python. Il permet de visualiser l'évolution de différentes métriques (Zones Cardiaques, Zones Aérobies, Cadence) à travers le temps via des graphiques interactifs générés avec `matplotlib`.
 

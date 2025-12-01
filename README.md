@@ -47,3 +47,24 @@ Date Aerobic Threshold Maximum
 23/09/23 32 18 0
 24/09/23 6 8 2
 ...
+```
+
+### 2. `Aerobie_data.txt`
+Contient les données d'impact aérobie/anaérobie.
+**Format :** `Date Low_Aerobic High_Aerobic Anaerobic`
+```text
+Date Low_Aerobic High_Aerobic Anaerobic
+23/09/23 0 52 0
+24/09/23 0 16 0
+...
+```
+
+### 3. `Cadence.txt`
+Contient la cadence moyenne.
+**Format :** `Date Cadence(spm)`
+```text
+Date Cadence(spm)
+24/09/23 157
+25/09/23 157
+...
+```
